@@ -6,5 +6,5 @@ import requests
 
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from mail import majn
-    mail()
+    from name2 import majn
+    name2()
