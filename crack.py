@@ -6,5 +6,5 @@ import requests
 
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from crack import majn
-    Main()
+    from Email import majn
+    mail()
