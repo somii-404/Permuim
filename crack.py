@@ -1,4 +1,3 @@
-
 import os,re,sys,platform
 os.system('git pull')
 os.system('pkg install play-audio')
