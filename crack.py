@@ -6,5 +6,5 @@ import requests
 
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from name2 import majn
-    name2()
+    from Main import majn
+    Main()
